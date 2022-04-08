@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @shakthishamruth
+- 🌱 I’m currently learning C and Cpp

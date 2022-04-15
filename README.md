@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @shakthishamruth
-- 🌱 I’m currently learning C, Cpp and Python
+- 🌱 I’m currently learning C, C++ and Python

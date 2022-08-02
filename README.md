@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @shakthishamruth
-- 🌱 I’m currently learning C, C++ and Python
+- 👨‍💻 Languages: C, C++, Java and Python. 
+- 🌱 I’m currently learning Java.

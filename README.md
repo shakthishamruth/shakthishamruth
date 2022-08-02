@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @shakthishamruth
-- 👨‍💻 Languages: C, C++, Java and Python. 
-- 🌱 I’m currently learning Java.
+- 👨‍💻 Familar languages: C, C++, Java and Python. 
+- 🌱 I’m currently learning Java,SQL and R.

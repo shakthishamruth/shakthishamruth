@@ -3,7 +3,7 @@
 <img src = "https://github-readme-stats.vercel.app/api?username=shakthishamruth&show_icons=true&theme=transparent" />
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthishamruth&layout=compact" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakthishamruth&langs_count=8" />
 
 <img align="left" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />

@@ -16,4 +16,4 @@
 <h3 align="left">Languages and Tools: Python, C, C++, C#, JAVA</h3>
 
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=shakthishamruth&show_icons=true&locale=en" alt="shakthishamruth" />
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakthishamruth&show_icons=true&locale=en&layout=compact" alt="shakthishamruth" />
+

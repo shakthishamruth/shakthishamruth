@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakthishamruth" alt="shakthishamruth" /></a> </p>
 
-- 🌱 I’m currently interested and learning **Game dev AND Android Programming**.
+- 🌱 I’m currently interested and learning **AI, ML and Android Programming**.
 
 - 📫 How to reach me **shakthishamruth@gmail.com**
 
 - ⚡ Fun fact **I am a huge anime and video game lover.**
 
-<h3 align="left">Languages and Tools: Python, C, C++, C#, JAVA</h3>
+<h3 align="left">Languages and Tools: Python, C, C++, C#, JAVA, HTML-CSS</h3>
 
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=shakthishamruth&show_icons=true&locale=en" alt="shakthishamruth" />
 

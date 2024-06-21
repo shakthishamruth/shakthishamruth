@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shakthishamruth@gmail.com**
 
-- ⚡ Fun fact **I am a huge anime and video game lover.**
+- ⚡ Fun fact: **I am a huge fan of anime and video games.**
 
 <h3 align="left">Languages and Tools: Python, C, C++, C#, JAVA, HTML-CSS</h3>
 

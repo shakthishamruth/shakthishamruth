@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakthishamruth" alt="shakthishamruth" /></a> </p>
 
-- 🌱 I’m currently interested and learning **AI, ML and Android Programming**.
+- 🌱 I’m currently interested and learning **AI, Gen AI, ML and Android Programming**.
 
 - 📫 How to reach me **shakthishamruth@gmail.com**
 

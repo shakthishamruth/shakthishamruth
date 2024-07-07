@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ShakthiShamruth</h1>
+<h1 align="center">Hi 👋, I'm Shakthi Shamruth</h1>
 <h3 align="center">A software engineering student from India.</h3>
 
 ![image_processing20210511-12175-1v0etim](https://user-images.githubusercontent.com/89314693/210177987-94bb3cde-7d14-48f8-ae3f-4aa08ab3994c.gif)
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shakthishamruth@gmail.com**
 
-- ⚡ Fun fact: **I am a huge fan of anime and video games.**
+- ⚡ Fun fact: **I like anime and video games.**
 
 <h3 align="left">Languages and Tools: Python, C, C++, C#, JAVA, HTML-CSS</h3>
 

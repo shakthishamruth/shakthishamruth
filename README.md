@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shakthishamruth@gmail.com**
 
-<h3 align="left">Languages and Tools: Python, C, C++, C#, JAVA, Kotlin, HTML-CSS</h3>
+<h3 align="left">Languages and Tools: Python, JAVA, Kotlin, HTML-CSS</h3>
 
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=shakthishamruth&show_icons=true&locale=en" alt="shakthishamruth" />
 

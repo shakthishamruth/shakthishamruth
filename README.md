@@ -11,7 +11,7 @@
 
 <h2 align="left">LeetCode 🚀</h2>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/shakthishamruth?ext=heatmap?radius=0)](https://leetcode.com/u/shakthishamruth/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shakthishamruth?ext=heatmap&border=0&radius=0)](https://leetcode.com/u/shakthishamruth/)
 
 <h2 align="left">GFG 🚀</h2>
 

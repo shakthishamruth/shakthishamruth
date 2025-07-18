@@ -9,5 +9,9 @@
 
 <h3 align="left">Languages and Tools: Python, JAVA, Kotlin, HTML-CSS</h3>
 
+<h2 align="left">LeetCode 🚀</h2>
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shakthishamruth?ext=heatmap)](https://leetcode.com/u/shakthishamruth/)
+
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=shakthishamruth&show_icons=true&locale=en" alt="shakthishamruth" />
 

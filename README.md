@@ -13,6 +13,10 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shakthishamruth?ext=heatmap)](https://leetcode.com/u/shakthishamruth/)
 
+<h2 align="left">GFG 🚀</h2>
+
+[![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/shakthis503l?theme=dark)](https://www.geeksforgeeks.org/user/shakthis503l/)
+
 <h2 align="left">GitHub Stats 🚀</h2>
 
 <img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=shakthishamruth&show_icons=true&locale=en" alt="shakthishamruth" />
